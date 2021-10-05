@@ -1,0 +1,16 @@
+.body {
+    margin-left: 0px;
+}
+
+button {
+    margin: 10px;
+}
+
+.row {
+    margin: 10px;
+}
+
+hr {
+    border: 1px solid;
+    width: 100%;
+}
